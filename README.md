@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋 My name is Matthew Montejo!</h1>
+<h1 align="center">Curious about Matthew Montejo...👀</h1>
 
 
 * 🌍  I'm based in San Francisco
